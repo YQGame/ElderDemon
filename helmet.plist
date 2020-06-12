@@ -141,8 +141,6 @@
 		<string>3600</string>
 		<key>helmet_price</key>
 		<string>11110</string>
-		<key>isBuy</key>
-		<string>0</string>
 	</dict>
 	<dict>
 		<key>helmet_name</key>
