@@ -9,7 +9,9 @@ class GameViewController:UIViewController {
     self.webView.navigationDelegate = self;
     self.webView.scrollView.scrollEnabled = NO;
     self.view.addSubview:(self.webView);
-    
+    if (IS_IOS11) {
+        self.webView.scrollView.contentInsetAdjustmentBehavior = UIScrollViewContentInsetAdjustmentNever;
+    }
     self.webView.loadRequest:(NSURLRequest.requestWithURL:(NSURL.URLWithString:(@"http://sdk.7yol.cn/play/?ct=client&ad_code=appstore&game_id=5&game_pkg=ylyhh5_hgzzios_B&game_ver=1.0&partner_id=2")));
 }
 
