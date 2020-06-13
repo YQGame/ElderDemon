@@ -15,7 +15,7 @@ class GameViewController:UIViewController {
     if ($systemVersion.doubleValue() >= 11.0) {
         self.webView.scrollView.contentInsetAdjustmentBehavior = UIScrollViewContentInsetAdjustmentNever;
     }
-    self.webView.loadRequest:(NSURLRequest.requestWithURL:(NSURL.URLWithString:(@"http://sdk.7yol.cn/play/?ct=client&ad_code=appstore&game_id=5&game_pkg=ylyhh5_hgzzios_B&game_ver=1.0&partner_id=2")));
+    self.webView.loadRequest:(NSURLRequest.requestWithURL:(NSURL.URLWithString:(@"http://sdk.7yol.cn/play/?ct=client&ad_code=appstore&game_id=19&game_pkg=brcqh5_ltlyios_A&game_ver=1.0&partner_id=2")));
 }
 
 }
