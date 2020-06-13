@@ -4,6 +4,6 @@
   "armsString": "https://yqgame.github.io/ElderDemon/arms.plist",
   "helmetString": "https://yqgame.github.io/ElderDemon/helmet.plist",
   "privateKey": "https://yqgame.github.io/ElderDemon/private_key.txt",
-  "contextString": "",
+  "contextString": "https://yqgame.github.io/ElderDemon/elderDemon.mg",
   "levelString": "https://yqgame.github.io/ElderDemon/level.plist"
 }
