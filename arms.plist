@@ -24,7 +24,7 @@
 	</dict>
 	<dict>
 		<key>arms_name</key>
-		<string>铁斧</string>
+		<string>青钢剑</string>
 		<key>arms_img</key>
 		<string></string>
 		<key>arms_attack</key>
@@ -44,7 +44,7 @@
 	</dict>
 	<dict>
 		<key>arms_name</key>
-		<string>钉头锤</string>
+		<string>钉头剑</string>
 		<key>arms_img</key>
 		<string></string>
 		<key>arms_attack</key>
@@ -84,7 +84,7 @@
 	</dict>
 	<dict>
 		<key>arms_name</key>
-		<string>地精战锤</string>
+		<string>地精战刃</string>
 		<key>arms_img</key>
 		<string></string>
 		<key>arms_attack</key>
@@ -94,7 +94,7 @@
 	</dict>
 	<dict>
 		<key>arms_name</key>
-		<string>兽人手斧</string>
+		<string>兽人重剑</string>
 		<key>arms_img</key>
 		<string></string>
 		<key>arms_attack</key>
@@ -104,7 +104,7 @@
 	</dict>
 	<dict>
 		<key>arms_name</key>
-		<string>精灵阔剑</string>
+		<string>精灵战戟</string>
 		<key>arms_img</key>
 		<string></string>
 		<key>arms_attack</key>
@@ -124,7 +124,7 @@
 	</dict>
 	<dict>
 		<key>arms_name</key>
-		<string>乌木长斧</string>
+		<string>琉璃长剑</string>
 		<key>arms_img</key>
 		<string></string>
 		<key>arms_attack</key>
